@@ -1,0 +1,13 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  spree:
+    promotion_action_types:
+      create_selected_product_adjustments:
+        name: Create Selected Product Adjustment
+        description: Creates a promotion credit adjustment on a selected product line item
+    promotion_rule_types:
+      n_quantity_of_product:
+        description: Order includes n quantity of product
+        name: N Quantity Product

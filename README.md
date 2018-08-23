@@ -2,6 +2,16 @@
 
 Introduction goes here.
 
+
+Demo
+-----------------------------------
+
+Try Spree Buy M Get N for Spree Master with direct deployment on Heroku:
+
+Try Spree Buy M Get N for Spree 3-4 with direct deployment on Heroku:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vinsol-spree-contrib/spree-demo-heroku/tree/spree-buy-m-get-n)
+
 ## Installation
 
 1. Add this extension to your Gemfile with this line:

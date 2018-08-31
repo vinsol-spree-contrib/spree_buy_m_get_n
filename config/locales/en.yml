@@ -3,11 +3,16 @@
 
 en:
   spree:
+    n_product_rule:
+      match_policy: How many chosen products should satisfy the rule?
+      quantity: Quantity (n)
+    create_selected_product_adjustments:
+      quantity: Quantity (The promotion will be applicable for only the qty. specified here.)
     promotion_action_types:
       create_selected_product_adjustments:
         name: Create Selected Product Adjustment
-        description: Creates a promotion credit adjustment on a selected product line item
+        description: Promotion applicable on the variant selected below
     promotion_rule_types:
       n_quantity_of_product:
-        description: Order includes n quantity of product
+        description: Order should include 'n' quantity of the following products
         name: N Quantity Product

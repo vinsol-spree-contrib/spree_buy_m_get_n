@@ -1,6 +1,10 @@
 # SpreeBuyMGetN
+Spree Buy M Get N is an extension to let users to create special promotions in a spree application.
 
-Introduction goes here.
+* This extension allows the admin to create a promotion through which he can acheive a functionality of buy m get n free promotions.
+
+* This extension allows the admin to create a promotion through which he can acheive a functionality of buy m get n at a certain discount promotions.
+
 
 
 Demo
@@ -16,7 +20,7 @@ Try Spree Buy M Get N for Spree 3-4 with direct deployment on Heroku:
 
 1. Add this extension to your Gemfile with this line:
   ```ruby
-  gem 'spree_buy_m_get_n', github: '[your-github-handle]/spree_buy_m_get_n'
+  gem 'spree_buy_m_get_n', github: 'vinsol-spree-contrib/spree_buy_m_get_n'
   ```
 
 2. Install the gem using Bundler:

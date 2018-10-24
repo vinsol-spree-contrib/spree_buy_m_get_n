@@ -1,9 +1,9 @@
 # SpreeBuyMGetN
 Spree Buy M Get N is an extension to let users to create special promotions in a spree application.
 
-* This extension allows the admin to create a promotion through which he can acheive a functionality of buy m get n free promotions.
+* This extension allows the admin to create a promotion through which he can achieve a functionality of buy m get n free promotions.
 
-* This extension allows the admin to create a promotion through which he can acheive a functionality of buy m get n at a certain discount promotions.
+* This extension allows the admin to create a promotion through which he can achieve a functionality of buy m get n at a certain discount promotions.
 
 
 
